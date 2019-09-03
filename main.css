@@ -22,7 +22,9 @@ img{
 }
 a{
     color:white;
+
     text-decoration: none;
+
 }
 a:hover{
     background-color: rgb(134, 15, 15);
